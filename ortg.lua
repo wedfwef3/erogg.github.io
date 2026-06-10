@@ -66,7 +66,7 @@ Tabs.Jump:Button({
     IconAlign = "Left",
     Icon = "infinity",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/castletpfast.github.io/refs/heads/main/FASTCASTLE.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeiqjjj/goerg/main/icon%20(1).png"))()
     end,
 })
 
