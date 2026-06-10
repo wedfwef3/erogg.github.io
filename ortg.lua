@@ -39,7 +39,7 @@ Tabs.Jump:Section({
 
 Tabs.Jump:Toggle({
     Title = "Auto Block",
-    Icon = "https://raw.githubusercontent.com/eeeiqjjj/goerg/main/icon%20(2).png",
+    Icon = "https://raw.githubusercontent.com/eeeiqjjj/goerg/main/icon%20(4).png",
     Default = false,
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/NEWTPTRAIN.github.io/refs/heads/main/TRAIN.LUA"))()
@@ -63,7 +63,7 @@ Tabs.Jump:Section({
 Tabs.Jump:Button({
     Title = "Infinite Stamina",
     IconAlign = "Left",
-    Icon = "https://raw.githubusercontent.com/eeeiqjjj/goerg/main/icon%20(2).png",
+    Icon = "https://raw.githubusercontent.com/eeeiqjjj/goerg/main/icon%20(4).png",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/castletpfast.github.io/refs/heads/main/FASTCASTLE.lua"))()
     end,
